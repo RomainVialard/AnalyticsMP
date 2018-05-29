@@ -1,0 +1,24 @@
+{
+	"name": "@scriptaddicts/gas-analytics-mp",
+	"version": "0.0.1",
+	"description": "GAS library to handle Google Analytics Measurement Protocol",
+	"license": "Apache-2.0",
+	"author": {
+		"name": "Romain Vialard",
+		"email": "romain.vialard@gmail.com"
+	},
+	"contributors": [
+		{
+			"name": "Jean-Rémi Delteil",
+			"email": "jeanremi.delteil@gmail.com"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/RomainVialard/AnalyticsMP.git"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"gas-lib": "latest"
+	}
+}
