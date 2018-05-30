@@ -9,5 +9,5 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 <!-- Add new, unreleased changes here. -->
 * none
 
-## [0.0.1] - 2018-05-29
-* Initial commit
+## [1.0.0] - 2018-05-30
+* Initial version

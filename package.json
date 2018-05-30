@@ -1,6 +1,6 @@
 {
 	"name": "@scriptaddicts/gas-analytics-mp",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "GAS library to handle Google Analytics Measurement Protocol",
 	"license": "Apache-2.0",
 	"author": {
@@ -19,6 +19,7 @@
 	},
 	"dependencies": {},
 	"devDependencies": {
-		"gas-lib": "latest"
+		"gas-lib": "latest",
+		"@scriptaddicts/gas-error-handler": "^2.0.0"
 	}
 }
