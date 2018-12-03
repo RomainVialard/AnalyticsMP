@@ -23,7 +23,7 @@ Use this method to send events (default) or pageviews to Google Analytics. The l
 
 ```JS
 
-// the The tracking ID / web property ID can be set as a global variable named ANALYTICS_TRACKING_ID or can be added in each call via the 'tid' parameter.
+// The tracking ID / web property ID can be set as a global variable named ANALYTICS_TRACKING_ID or can be added in each call via the 'tid' parameter.
 
   var ANALYTICS_TRACKING_ID = 'UA-17845631-4';
 
@@ -152,7 +152,7 @@ To install it as a library, use the following script ID and select the latest ve
 
 To copy the code in your project, simply copy-past the content of this file in a new script file in your project:
 
-`[https://github.com/RomainVialard/AnalyticsMP/blob/master/src/AnalyticsMP.js](https://github.com/RomainVialard/AnalyticsMP/blob/master/src/AnalyticsMP.js)`
+[https://github.com/RomainVialard/AnalyticsMP/blob/master/src/AnalyticsMP.js](https://github.com/RomainVialard/AnalyticsMP/blob/master/src/AnalyticsMP.js)
 
 It is recommended - but not mandatory - to also include in your project the [ErrorHandler](https://github.com/RomainVialard/ErrorHandler) library. If installed, it will automatically be used by AnalyticsMP methods to perform an Exponential backoff logic whenever it is needed.
 
